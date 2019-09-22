@@ -1,8 +1,0 @@
-RENCANA KONTEN WPU
--java script
-  * ES6
-  * Frameworks
--Struktur dasar data
--php frameworks
- "laravel
--interview
